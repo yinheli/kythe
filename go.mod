@@ -1,4 +1,4 @@
-module kythe.io
+module kythe.io/kythe
 
 require (
 	bitbucket.org/creachadair/shell v0.0.0-20180618202420-f7b089e3c07c
